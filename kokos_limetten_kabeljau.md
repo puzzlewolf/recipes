@@ -1,4 +1,4 @@
-# Kokos-Limetten-Fisch
+# Kokos-Limetten-Kabeljau
 
 Kabeljau frisch und etwas scharf
 
@@ -14,7 +14,7 @@ Kabeljau frisch und etwas scharf
 - *1* rote Paprikaschote 
 - *2* Lauchzwiebeln 
 - *1* Bio-Limette 
-- *4 (je ca. 150 g)* Kabeljaufilet  
+- *4 (je ca. 150 g)* Kabeljaufilet (TK geht auch)
 - *3 EL* Öl 
 - *1 Dose(n) (400 ml)* ungesüßte Kokosmilch 
 - *5 Stiele*  Koriander 
@@ -40,7 +40,8 @@ Kabeljau frisch und etwas scharf
 3. Gemüse anbraten und Sauce:
    * 1 EL Öl im Bratfett erhitzen
    * Knoblauch, Ingwer, Chili und Paprika darin 2–3 Minuten andünsten
-   * Mit Kokosmilch und 1⁄8 l Wasser ablöschen, mit Salz und Pfeffer würzen
+   * Mit Kokosmilch (und evtl. 1⁄8 l Wasser) ablöschen
+   * Mit Salz und Pfeffer würzen
    * Aufkochen
    * Fisch zugeben und alles zugedeckt bei schwacher Hitze ca. 5 Minuten köcheln. 
 5. Dekorieren und Servieren: 

@@ -37,6 +37,8 @@ This quick and easy chocolate cake bakes up light and moist, thanks to a generou
    * eggs
    * vanilla
 
-   When mixture is smooth and well emulsified, add whole wheat flour and continue mixing only until combined. Scrape into prepared pan. Bake until cake is firm but your finger can still leave an impression in the puffy crust, about 25 minutes. (A toothpick inserted into the center should come away with a few crumbs still attached.)
+   until mixture is smooth and well emulsified
+4. Add whole wheat flour and continue mixing only until combined. 
+4. Scrape into prepared pan. Bake until cake is firm but your finger can still leave an impression in the puffy crust, about 25 minutes. (A toothpick inserted into the center should come away with a few crumbs still attached.)
 4. Cool cake directly in pan for 1 hour, then run a butter knife around the edges to loosen. Invert onto a wire rack, peel off parchment, and place cake right side up on a serving platter or cake stand.
    Serve plain, with a sprinkling of powdered sugar, or with fresh fruit.
