@@ -8,15 +8,15 @@ This quick and easy chocolate cake bakes up light and moist, thanks to a generou
 
 ---
 
-- 115g light or dark brown sugar (4 ounces; about 1/2 cup, firmly packed)
-- 42g high-fat Dutch cocoa (1 1/2 ounces; about 1/2 cup);
-- Shy 1/2 teaspoon (1.75g) Diamond Crystal kosher salt; for table salt, use about half as much by volume or the same weight
-- 3/4 teaspoon (4.8g) baking soda
-- 127g extra-virgin olive oil (4 1/2 ounces; about 2/3 cup)
-- 4 ounces brewed black coffee, or black tea such as Assam (about 1/2 cup; 115g), any temperature
-- 2 large eggs (about 100g), straight from the fridge
-- 1/4 ounce vanilla extract (about 1 1/2 teaspoons; 7g)
-- 70g whole wheat flour, such as Bob's Red Mill (1/2 ounces; about 1/2 cup plus 2 tablespoons)
+- *115g* light or dark brown sugar
+- *42g* high-fat Dutch cocoa
+- *1/4 teaspoon (1.75g)* salt
+- *3/4 teaspoon (4.8g)* baking soda
+- *185ml* extra-virgin olive oil
+- *115ml* brewed black coffee, or black tea such as Assam, any temperature
+- *2* large eggs (about 100g), straight from the fridge
+- *1 1/2 teaspoons (7g)* vanilla extract 
+- *70g* whole wheat flour 
 - Optional garnishes: powdered sugar, preferably organic, or fresh fruit
 
 ---
