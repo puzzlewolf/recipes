@@ -25,15 +25,15 @@ This quick and easy chocolate cake bakes up light and moist, thanks to a generou
 
 1. Getting Ready: Adjust oven rack to lower-middle position and preheat to 180°C. Line a 20 cm (8- by 3-inch) anodized aluminum pan with parchment and grease lightly with pan spray.
 2. For the Cake: In a medium mixing bowl, combine 
-  * brown sugar
-  * Dutch cocoa powder
-  * salt
-  * baking soda   
+   * brown sugar
+   * Dutch cocoa powder
+   * salt
+   * baking soda   
 Whisk until homogeneous, with no visible clumps of cocoa or baking soda (although a few lumps of brown sugar may remain), about 1 minute. Under-mixing will give the cake an uneven texture and rise, so don't rush this step.
 3. Whisk in 
-  * olive oil
-  * brewed coffee
-  * eggs
-  * vanilla  
-  When mixture is smooth and well emulsified, add whole wheat flour and continue mixing only until combined. Scrape into prepared pan. Bake until cake is firm but your finger can still leave an impression in the puffy crust, about 25 minutes. (A toothpick inserted into the center should come away with a few crumbs still attached.)
+   * olive oil
+   * brewed coffee
+   * eggs
+   * vanilla  
+   When mixture is smooth and well emulsified, add whole wheat flour and continue mixing only until combined. Scrape into prepared pan. Bake until cake is firm but your finger can still leave an impression in the puffy crust, about 25 minutes. (A toothpick inserted into the center should come away with a few crumbs still attached.)
 4. Cool cake directly in pan for 1 hour, then run a butter knife around the edges to loosen. Invert onto a wire rack, peel off parchment, and place cake right side up on a serving platter or cake stand. Serve plain, with a sprinkling of powdered sugar, or with fresh fruit.
