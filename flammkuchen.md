@@ -4,7 +4,7 @@ Basisrezept für Flammkuchen
 
 *flammkuchen, simpel, einfach, schnell*
 
-**Für 1 Blech (2 Personen)**
+**Für 2 Personen (1 Blech)**
 
 ---
 
