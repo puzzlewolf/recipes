@@ -4,7 +4,7 @@ Basisrezept für Flammkuchen
 
 *flammkuchen, simpel, einfach, schnell*
 
-**Für 1 Blech**
+**Für 1 Blech (2 Personen)**
 
 ---
 
@@ -38,5 +38,5 @@ fleischig:
    * mit Salz, Pfeffer und Kräutern der Provence nach Geschmack würzen
 4. Backen
    * auf dem Rost
-   * bei 250° 
-   * ca. 10 Minuten backen
+   * bei 250°C
+   * ca. 10 Minuten
