@@ -21,7 +21,7 @@ Glasur:
 
 ---
 
-![Image of Osterbrot](./Osterbrot.jpeg)
+![Image of Osterbrot](./osterbrot.jpg)
 
 1. Alle Zutaten rausstellen und warten bis sie Zimmertemperatur haben.
 2. Vorteig:
@@ -29,7 +29,7 @@ Glasur:
    * Milch hineingeben,
    * Hefe darüber krümeln und leicht unterrühren.
    * Mit Geschirrhandtuch abdecken und an einem warmen Ort gehen lassen (ca. 30 Minuten).
-2. Teig
+2. Teig:
    * Restliche Zutaten hinzufügen:
      * Eier
      * weiche Butter
@@ -38,7 +38,8 @@ Glasur:
      * Zitronenabrieb
    * verkneten.
    * Mit Geschirrhandtuch abdecken und an einem warmen Ort gehen lassen.
-3. * Zwei Laibe formen
+3. Wenn ordentlich vergrößert:
+   * Zwei Laibe formen
    * Eigelb und etwas Milch verquirlen
    * Brote bestreichen
 4. Backen:
