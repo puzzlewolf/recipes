@@ -12,7 +12,7 @@ Teig:
 - *4* Eier
 - *250 g* Butter
 - *1* Prise Salz
-- *ca 200 g* Zucker
+- *1-2* Tassen (*ca 200 g*) Zucker
 - *2* Zitronen (Schale)
 
 Glasur:
@@ -46,3 +46,5 @@ Glasur:
    * 180°C (Umluft) oder 190°C (Ober-/Unterhitze) 
    * ca. 40-50 Minuten
    * nach 20 Minuten abdecken
+
+**Quelle:** Oma
