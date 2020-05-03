@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Nora's recipes"
+theme = "kiera"
+
+enableGitInfo = true
+
+[author]
+name = "Nora Widdecke"
+
+[frontmatter]
+date = [":git"]

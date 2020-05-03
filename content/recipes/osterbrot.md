@@ -1,3 +1,6 @@
+---
+title: Osterbrot
+---
 # Osterbrot
 
 **2 Brote**
@@ -9,7 +12,6 @@
 - *1 kg* Mehl Type 550
 - *250 ml* Milch
 - *1* Würfel Hefe
-
 - *4* Eier
 - *250 g* Butter
 - *1* Prise Salz
@@ -23,7 +25,7 @@
 
 ---
 
-![Image of Osterbrot](./images/osterbrot.jpg)
+![Image of Osterbrot](/osterbrot.jpg#float-right)
 
 1. Alle Zutaten rausstellen und warten bis sie Zimmertemperatur haben.
 2. Vorteig:
@@ -50,3 +52,4 @@
    * nach 20 Minuten abdecken
 
 **Quelle:** Oma
+
