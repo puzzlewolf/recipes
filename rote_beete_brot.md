@@ -23,7 +23,7 @@
 - Salz
 
 ---
-![image](./rote_beete_brot_angeschnitten.jpeg)
+![image](./images/rote_beete_brot_angeschnitten.jpeg)
 
 1. Vorbereiten:
    * Rote Beete schälen und reiben

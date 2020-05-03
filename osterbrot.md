@@ -23,7 +23,7 @@
 
 ---
 
-![Image of Osterbrot](./osterbrot.jpg)
+![Image of Osterbrot](./images/osterbrot.jpg)
 
 1. Alle Zutaten rausstellen und warten bis sie Zimmertemperatur haben.
 2. Vorteig:
