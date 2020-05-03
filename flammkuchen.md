@@ -2,7 +2,7 @@
 
 Basisrezept für Flammkuchen
 
-*flammkuchen, simpel, einfach, schnell*
+*flammkuchen, simpel, einfach, schnell, vegetarisch/fleischig*
 
 **Für 2 Personen (1 Blech)**
 
@@ -17,10 +17,12 @@ Basisrezept für Flammkuchen
 - Pfeffer
 - Kräuter der Provence
 
-vegetarisch:
+## Vegetarisch:
+
 - *1* Süßkartoffel
 
-fleischig:
+## Fleischig:
+
 - *125g* Schinkenwürfel
 
 ---

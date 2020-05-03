@@ -4,7 +4,8 @@
 
 ---
 
-Teig:
+## Teig:
+
 - *1 kg* Mehl Type 550
 - *250 ml* Milch
 - *1* Würfel Hefe
@@ -15,7 +16,8 @@ Teig:
 - *1-2* Tassen (*ca 200 g*) Zucker
 - *2* Zitronen (Schale)
 
-Glasur:
+## Glasur:
+
 - *2* Eigelb
 - *etwas* Milch
 
