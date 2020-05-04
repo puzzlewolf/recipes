@@ -1,6 +1,7 @@
----
-title: Osterbrot
----
++++
+title = "Osterbrot"
+images = [ "/osterbrot.jpg" ]
++++
 # Osterbrot
 
 **2 Brote**

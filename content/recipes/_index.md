@@ -6,4 +6,4 @@ menu: "main"
 weight: "10"
 ---
 
-I decided to start learning Go in March 2017.
+My recipe collection.

@@ -1,3 +1,6 @@
++++
+title = "Flammkuchen"
++++
 # Flammkuchen
 
 Basisrezept für Flammkuchen

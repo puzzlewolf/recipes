@@ -1,3 +1,7 @@
++++
+title = "Rote Beete Brot"
+tags = [ "brot" ]
++++
 # Rote Beete Brot
 
 **Für 1 Brot**
@@ -23,7 +27,7 @@
 - Salz
 
 ---
-![image](./images/rote_beete_brot_angeschnitten.jpeg)
+![image](/rote_beete_brot_angeschnitten.jpg#float-right)
 
 1. Vorbereiten:
    * Rote Beete schälen und reiben

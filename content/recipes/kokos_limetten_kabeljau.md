@@ -1,3 +1,7 @@
++++
+title = "Kokos-Limetten-Kabeljau"
+tags = ["scharf", "fisch"]
++++
 # Kokos-Limetten-Kabeljau
 
 Kabeljau frisch und etwas scharf
@@ -23,7 +27,7 @@ Kabeljau frisch und etwas scharf
 - Zucker 
 
 ---
-![image](https://images.lecker.de/kokos-limettenfisch-lecker-3-2019,id=fb236485,b=lecker,w=610,cg=c.jpg)
+![image](https://images.lecker.de/kokos-limettenfisch-lecker-3-2019,id=fb236485,b=lecker,w=610,cg=c.jpg#float-right)
 
 1. Gemüse vorbereiten: 
    * Knoblauch und Ingwer schälen, fein hacken

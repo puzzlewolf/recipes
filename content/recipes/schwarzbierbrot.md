@@ -1,3 +1,7 @@
++++
+title = "Schwarzbierbrot"
+tags = [ "brot" ]
++++
 # Schwarzbierbrot
 
 Ein einfaches Brot aus Schwarzbier
