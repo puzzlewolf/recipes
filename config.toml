@@ -7,6 +7,11 @@ enableGitInfo = true
 
 [author]
 name = "Nora Widdecke"
+github = "puzzlewolf"
+gitlab = "puzzlewolf"
 
 [frontmatter]
-date = [":git"]
+#date = [":git"]
+
+[params]
+tagline = "My recipe collection"
