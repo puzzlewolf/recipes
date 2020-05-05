@@ -1,14 +1,14 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>by date on Nora&#39;s recipes</title>
-   <link>/recipes/</link>
-   <description>Recent content in by date on Nora&#39;s recipes</description>
+   <title>brot on Nora&#39;s recipes</title>
+   <link>/tags/brot/</link>
+   <description>Recent content in brot on Nora&#39;s recipes</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>de-de</language>
-   <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+   <lastBuildDate>Sun, 03 May 2020 00:00:00 +0200</lastBuildDate>
    
-       <atom:link href="/recipes/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="/tags/brot/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>

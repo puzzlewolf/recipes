@@ -3,66 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/recipes/</loc>
-    <lastmod>2020-05-03T16:29:03+02:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-05-03T16:29:03+02:00</lastmod>
+    <loc>/recipes/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/recipes/osterbrot/</loc>
-    <lastmod>2020-05-03T16:29:03+02:00</lastmod>
+    <loc>/tags/brot/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/recipes/dairyfree_chocolate_cake/</loc>
-    <priority>0</priority>
+    <loc>/recipes/rote_beete_brot/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/recipes/flammkuchen/</loc>
-    <priority>0</priority>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/recipes/kartoffelp%C3%BCree_mit_oliven%C3%B6l/</loc>
-    <priority>0</priority>
+    <loc>/recipes/osterbrot/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/recipes/kokos_limetten_kabeljau/</loc>
-    <priority>0</priority>
+    <loc>/recipes/schneefl%C3%B6ckchen/</loc>
+    <lastmod>2020-04-10T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/recipes/rote_beete_brot/</loc>
-    <priority>0</priority>
+    <loc>/recipes/topinambur_k%C3%B6ttbullar/</loc>
+    <lastmod>2020-04-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/recipes/schneefl%C3%B6ckchen/</loc>
-    <priority>0</priority>
+    <loc>/recipes/flammkuchen/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/recipes/schwarzbierbrot/</loc>
-    <priority>0</priority>
+    <loc>/recipes/chocolate_olive_oil_cake/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/recipes/topinambur_k%C3%B6ttbullar/</loc>
-    <priority>0</priority>
+    <loc>/tags/fisch/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/recipes/kokos_limetten_kabeljau/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/scharf/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/schwarzbierbrot/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vegetarisch/</loc>
+    <lastmod>2020-05-05T09:53:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>
