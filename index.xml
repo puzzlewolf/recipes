@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
    <title>My Recipes on Nora&#39;s recipes</title>
-   <link>puzzlewolf.github.io/recipes/</link>
+   <link>/recipes/</link>
    <description>Recent content in My Recipes on Nora&#39;s recipes</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>de-de</language>
    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
    
-       <atom:link href="puzzlewolf.github.io/recipes/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="/recipes/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
        <title>Rote Beete Brot</title>
-       <link>puzzlewolf.github.io/recipes/recipes/rote_beete_brot/</link>
+       <link>/recipes/recipes/rote_beete_brot/</link>
        <pubDate>Sun, 03 May 2020 00:00:00 +0200</pubDate>
        
-       <guid>puzzlewolf.github.io/recipes/recipes/rote_beete_brot/</guid>
+       <guid>/recipes/recipes/rote_beete_brot/</guid>
        <description>&lt;p&gt;&lt;strong&gt;Für 1 Brot&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -93,10 +93,10 @@
    
      <item>
        <title>Osterbrot</title>
-       <link>puzzlewolf.github.io/recipes/recipes/osterbrot/</link>
+       <link>/recipes/recipes/osterbrot/</link>
        <pubDate>Fri, 10 Apr 2020 00:00:00 +0200</pubDate>
        
-       <guid>puzzlewolf.github.io/recipes/recipes/osterbrot/</guid>
+       <guid>/recipes/recipes/osterbrot/</guid>
        <description>&lt;p&gt;&lt;strong&gt;2 Brote&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;teig&#34;&gt;Teig:&lt;/h2&gt;
@@ -162,10 +162,10 @@
    
      <item>
        <title>Schneeflöckchen</title>
-       <link>puzzlewolf.github.io/recipes/recipes/schneefl%C3%B6ckchen/</link>
+       <link>/recipes/recipes/schneefl%C3%B6ckchen/</link>
        <pubDate>Fri, 10 Apr 2020 00:00:00 +0200</pubDate>
        
-       <guid>puzzlewolf.github.io/recipes/recipes/schneefl%C3%B6ckchen/</guid>
+       <guid>/recipes/recipes/schneefl%C3%B6ckchen/</guid>
        <description>&lt;p&gt;&lt;em&gt;Weihnachtskekse, Butterknöpfchen&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -221,10 +221,10 @@
    
      <item>
        <title>Tobinambur-Bällchen „Köttbullar-Art“</title>
-       <link>puzzlewolf.github.io/recipes/recipes/topinambur_k%C3%B6ttbullar/</link>
+       <link>/recipes/recipes/topinambur_k%C3%B6ttbullar/</link>
        <pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
        
-       <guid>puzzlewolf.github.io/recipes/recipes/topinambur_k%C3%B6ttbullar/</guid>
+       <guid>/recipes/recipes/topinambur_k%C3%B6ttbullar/</guid>
        <description>&lt;p&gt;&lt;strong&gt;Für 2 Personen&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -272,10 +272,10 @@
    
      <item>
        <title>Flammkuchen</title>
-       <link>puzzlewolf.github.io/recipes/recipes/flammkuchen/</link>
+       <link>/recipes/recipes/flammkuchen/</link>
        <pubDate>Fri, 28 Jun 2019 00:00:00 +0200</pubDate>
        
-       <guid>puzzlewolf.github.io/recipes/recipes/flammkuchen/</guid>
+       <guid>/recipes/recipes/flammkuchen/</guid>
        <description>&lt;p&gt;Basisrezept für Flammkuchen&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;flammkuchen, simpel, einfach, schnell, vegetarisch/fleischig&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Für 2 Personen (1 Blech)&lt;/strong&gt;&lt;/p&gt;
@@ -333,10 +333,10 @@
    
      <item>
        <title>Chocolate Cake with Olive Oil</title>
-       <link>puzzlewolf.github.io/recipes/recipes/chocolate_olive_oil_cake/</link>
+       <link>/recipes/recipes/chocolate_olive_oil_cake/</link>
        <pubDate>Thu, 13 Jun 2019 00:00:00 +0200</pubDate>
        
-       <guid>puzzlewolf.github.io/recipes/recipes/chocolate_olive_oil_cake/</guid>
+       <guid>/recipes/recipes/chocolate_olive_oil_cake/</guid>
        <description>&lt;p&gt;This quick and easy chocolate cake bakes up light and moist, thanks to a generous dose of olive oil. For a cake that tastes as traditional as they come, try a lighter oil, whose flavor will easily be subsumed by the intensity of Dutch cocoa powder. A bolder olive oil&amp;rsquo;s sharp, peppery notes will shine through, giving the cake a more distinctive flavor profile. Use whichever most appeals to you.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;baking, cake, chocolate, dairy-free, dutch cocoa, olive oil, whole wheat&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;8 servings&lt;/strong&gt;&lt;/p&gt;
@@ -394,10 +394,10 @@ Serve plain, with a sprinkling of powdered sugar, or with fresh fruit.&lt;/p&gt;
    
      <item>
        <title>Kokos-Limetten-Kabeljau</title>
-       <link>puzzlewolf.github.io/recipes/recipes/kokos_limetten_kabeljau/</link>
+       <link>/recipes/recipes/kokos_limetten_kabeljau/</link>
        <pubDate>Thu, 13 Jun 2019 00:00:00 +0200</pubDate>
        
-       <guid>puzzlewolf.github.io/recipes/recipes/kokos_limetten_kabeljau/</guid>
+       <guid>/recipes/recipes/kokos_limetten_kabeljau/</guid>
        <description>&lt;p&gt;Kabeljau frisch und etwas scharf&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Für 3 Personen&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -461,10 +461,10 @@ Serve plain, with a sprinkling of powdered sugar, or with fresh fruit.&lt;/p&gt;
    
      <item>
        <title>Schwarzbierbrot</title>
-       <link>puzzlewolf.github.io/recipes/recipes/schwarzbierbrot/</link>
+       <link>/recipes/recipes/schwarzbierbrot/</link>
        <pubDate>Thu, 13 Jun 2019 00:00:00 +0200</pubDate>
        
-       <guid>puzzlewolf.github.io/recipes/recipes/schwarzbierbrot/</guid>
+       <guid>/recipes/recipes/schwarzbierbrot/</guid>
        <description>&lt;p&gt;Ein einfaches Brot aus Schwarzbier&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1 Brot&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
