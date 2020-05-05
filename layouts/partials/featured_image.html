@@ -1,0 +1,9 @@
+{{if isset .Params "images" }}
+<div class="featured_image">
+    <a href="{{ .Permalink }}" title="{{ .Title }}">
+      <figure class="float-right">
+        <img src="{{ index .Params.images 0 }}">
+      </figure>
+    </a>
+</div>
+{{ end }}
