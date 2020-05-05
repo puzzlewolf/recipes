@@ -1,7 +1,7 @@
 +++
 title = "Flammkuchen"
+date = 2019-06-28
 +++
-# Flammkuchen
 
 Basisrezept für Flammkuchen
 

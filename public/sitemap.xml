@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/recipes/</loc>
+    <lastmod>2020-05-03T16:29:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-05-03T16:29:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/osterbrot/</loc>
+    <lastmod>2020-05-03T16:29:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/dairyfree_chocolate_cake/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/flammkuchen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/kartoffelp%C3%BCree_mit_oliven%C3%B6l/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/kokos_limetten_kabeljau/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/rote_beete_brot/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/schneefl%C3%B6ckchen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/schwarzbierbrot/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/topinambur_k%C3%B6ttbullar/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

@@ -1,7 +1,8 @@
 +++
-title = "Dairy-Free Chocolate Cake"
+title = "Chocolate Cake with Olive Oil"
+images = [ "/chocolate_olive_oil_cake.jpg" ]
+date = 2019-06-13
 +++
-# Dairy-Free Chocolate Cake
 
 This quick and easy chocolate cake bakes up light and moist, thanks to a generous dose of olive oil. For a cake that tastes as traditional as they come, try a lighter oil, whose flavor will easily be subsumed by the intensity of Dutch cocoa powder. A bolder olive oil's sharp, peppery notes will shine through, giving the cake a more distinctive flavor profile. Use whichever most appeals to you.
 
@@ -23,8 +24,6 @@ This quick and easy chocolate cake bakes up light and moist, thanks to a generou
 - Optional garnishes: powdered sugar, preferably organic, or fresh fruit
 
 ---
-
-![Image of chocolate cake](https://www.seriouseats.com/2019/03/20190227-chocolate-olive-oil-cake-vicky-wasik-17.jpg)
 
 1. Getting Ready: Adjust oven rack to lower-middle position and preheat to 180°C. Line a 20 cm (8- by 3-inch) anodized aluminum pan with parchment and grease lightly with pan spray.
 2. For the Cake: In a medium mixing bowl, combine 

@@ -1,8 +1,8 @@
 +++
 title = "Osterbrot"
-images = [ "/osterbrot.jpg" ]
+images = [ "/osterbrot_cropped.jpg" ]
+date = 2020-04-10
 +++
-# Osterbrot
 
 **2 Brote**
 
@@ -25,8 +25,6 @@ images = [ "/osterbrot.jpg" ]
 - *etwas* Milch
 
 ---
-
-![Image of Osterbrot](/osterbrot.jpg#float-right)
 
 1. Alle Zutaten rausstellen und warten bis sie Zimmertemperatur haben.
 2. Vorteig:

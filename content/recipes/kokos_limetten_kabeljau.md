@@ -1,12 +1,11 @@
 +++
 title = "Kokos-Limetten-Kabeljau"
 tags = ["scharf", "fisch"]
+images = [ "/kokos_limetten_kabeljau.jpg" ]
+date = 2019-06-13
 +++
-# Kokos-Limetten-Kabeljau
 
 Kabeljau frisch und etwas scharf
-
-*scharf, kokos, kabeljau, fisch, sommer*
 
 **Für 3 Personen**
 
@@ -18,16 +17,17 @@ Kabeljau frisch und etwas scharf
 - *1* rote Paprikaschote 
 - *2* Lauchzwiebeln 
 - *1* Bio-Limette 
-- *4 (je ca. 150 g)* Kabeljaufilet (TK geht auch)
-- *3 EL* Öl 
-- *1 Dose(n) (400 ml)* ungesüßte Kokosmilch 
-- *5 Stiele*  Koriander 
+- *600 g* Kabeljaufilet (4 Stück, TK geht auch)
+- *400 ml* Kokosmilch 
+- *5 Stiele* Koriander 
+- Öl 
 - Salz
 - Pfeffer
-- Zucker 
+- Zucker
+
+**Beilage:** Reis
 
 ---
-![image](https://images.lecker.de/kokos-limettenfisch-lecker-3-2019,id=fb236485,b=lecker,w=610,cg=c.jpg#float-right)
 
 1. Gemüse vorbereiten: 
    * Knoblauch und Ingwer schälen, fein hacken
@@ -54,6 +54,3 @@ Kabeljau frisch und etwas scharf
    * Mit Salz, Pfeffer und Zucker würzen. 
    * Mit den Korianderblättchen bestreuen.  
 
-**Beilage:** Reis
-
-**Quelle:** [lecker.de](https://www.lecker.de/kokos-limetten-fisch-77616.html)

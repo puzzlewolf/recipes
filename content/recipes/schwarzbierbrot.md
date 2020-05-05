@@ -1,12 +1,10 @@
 +++
 title = "Schwarzbierbrot"
-tags = [ "brot" ]
+tags = [ "brot", "vegetarisch" ]
+date = 2019-06-13
 +++
-# Schwarzbierbrot
 
 Ein einfaches Brot aus Schwarzbier
-
-*vegetarisch*
 
 **1 Brot**
 
