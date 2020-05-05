@@ -1,4 +1,4 @@
-baseURL = "http(s)://puzzlewolf.github.io/recipes"
+baseURL = "puzzlewolf.github.io/recipes"
 languageCode = "de-de"
 title = "Nora's recipes"
 theme = "kiera"
