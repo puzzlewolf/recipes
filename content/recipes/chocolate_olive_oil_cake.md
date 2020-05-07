@@ -1,46 +1,48 @@
 +++
-title = "Chocolate Cake with Olive Oil"
+title = "Schokoladenkuchen mit Olivenöl"
 images = [ "/chocolate_olive_oil_cake.jpg" ]
+tags = [ "kuchen", "backen", "olivenöl", "schokolade" ]
 date = 2019-06-13
+summary = "Schneller und einfacher Schokoladenkuchen. Ohne Milch oder Butter, dafür mit leckerem Olivenöl und angenehm feuchter Textur."
+
 +++
 
-This quick and easy chocolate cake bakes up light and moist, thanks to a generous dose of olive oil. For a cake that tastes as traditional as they come, try a lighter oil, whose flavor will easily be subsumed by the intensity of Dutch cocoa powder. A bolder olive oil's sharp, peppery notes will shine through, giving the cake a more distinctive flavor profile. Use whichever most appeals to you.
+Schneller und einfacher Schokoladenkuchen. Ohne Milch oder Butter, dafür mit leckerem Olivenöl und angenehm feuchter Textur.
 
-*baking, cake, chocolate, dairy-free, dutch cocoa, olive oil, whole wheat*
-
-**8 servings**
+**1 kleiner Kuchen**
 
 ---
 
-- *115g* light or dark brown sugar
-- *42g* high-fat Dutch cocoa
-- *1/4 teaspoon (1.75g)* salt
-- *3/4 teaspoon (4.8g)* baking soda
-- *185ml* extra-virgin olive oil
-- *115ml* brewed black coffee, or black tea such as Assam, any temperature
-- *2* large eggs (about 100g), straight from the fridge
-- *1 1/2 teaspoons (7g)* vanilla extract 
-- *70g* whole wheat flour 
-- Optional garnishes: powdered sugar, preferably organic, or fresh fruit
+- *100 g* brauner Zucker
+- *15 g* Vanillezucker (1 Tüte)
+- *42 g* Kakaopulver
+- *1/4 TL* Salz
+- *3/4 TL* Natron
+- *185 ml* Olivenöl
+- *115 ml* Kaffee oder kräftiger schwarzer Tee (z.B. Assam)
+- *2* große Eier (ca. 100 g)
+- *70 g* Vollkornmehl
+- Optional: Puderzucker zum Bestäuben
+- Optionale Beilage: Obst
 
 ---
 
-1. Getting Ready: Adjust oven rack to lower-middle position and preheat to 180°C. Line a 20 cm (8- by 3-inch) anodized aluminum pan with parchment and grease lightly with pan spray.
-2. For the Cake: In a medium mixing bowl, combine 
-   * brown sugar
-   * Dutch cocoa powder
-   * salt
-   * baking soda
+1. Vorbereitung:
+   * Ofen auf 180°C vorheizen,
+   * kleine Springform (20 cm Durchmesser) mit Backpapier auslegen und einfetten.
+2. In einer Rührschüssel
+   * Braunen Zucker,
+   * Vanillezucker,
+   * Kakaopulver,
+   * Salz,
+   * Natron
 
-   Whisk until homogeneous, with no visible clumps of cocoa or baking soda (although a few lumps of brown sugar may remain), about 1 minute. Under-mixing will give the cake an uneven texture and rise, so don't rush this step.
-3. Whisk in 
-   * olive oil
-   * brewed coffee
-   * eggs
-   * vanilla
+   vermischen. Rühren, bis keine Kakao- oder Natron-Klümpchen mehr sichtbar sind (ca. 1 min).
+3. * Olivenöl
+   * Kaffee (oder Tee)
+   * Eier
 
-   until mixture is smooth and well emulsified
-4. Add whole wheat flour and continue mixing only until combined. 
-4. Scrape into prepared pan. Bake until cake is firm but your finger can still leave an impression in the puffy crust, about 25 minutes. (A toothpick inserted into the center should come away with a few crumbs still attached.)
-4. Cool cake directly in pan for 1 hour, then run a butter knife around the edges to loosen. Invert onto a wire rack, peel off parchment, and place cake right side up on a serving platter or cake stand.
-   Serve plain, with a sprinkling of powdered sugar, or with fresh fruit.
+   Hinzufügen und glatt rühren.
+4. Mehl hinzufügen und nur so lange rühren bis es vermischt ist.
+5. Teig in die Form füllen. Ca. 30 Minuten backen, bis der Kuchen fest ist, aber man ihn noch mit dem Finger eindrücken kann. An einer Stäbchenprobe sollten noch ein paar Krümel haften.
+6. Eine Stunde in der Form abkühlen lassen. Dann auf ein Kuchengitter stürzen und das Backpapier abziehen. Auf die Servierplatte setzen. Nach belieben mit Puderzucker bestreuen und mit frischem Obst servieren.
