@@ -1,5 +1,5 @@
-#baseURL = "https://puzzlewolf.github.io/recipes"
-baseURL = "/recipes"
+#baseURL = "https://puzzlewolf.github.io/recipes/"
+baseURL = "https://recipes.nora.pink/"
 languageCode = "de-de"
 title = "Nora's recipes"
 theme = "kiera"
