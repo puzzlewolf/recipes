@@ -6,4 +6,5 @@ menu: "main"
 weight: 20
 ---
 
-My recipe collection.
+Meine Rezeptesammlung.
+Alle Rezepte sind mindestens zweimal getestet und für sehr gut befunden :smile:.

@@ -1,13 +1,13 @@
 +++
 title = "Schokoladenkuchen mit Olivenöl"
-images = [ "/chocolate_olive_oil_cake.jpg" ]
+images = [ "/schokoladen_olivenöl_kuchen.jpg" ]
 tags = [ "kuchen", "backen", "olivenöl", "schokolade" ]
 date = 2019-06-13
-summary = "Schneller und einfacher Schokoladenkuchen. Ohne Milch oder Butter, dafür mit leckerem Olivenöl und angenehm feuchter Textur."
+summary = " Super saftiger, fluffiger Schokoladenkuchen. Ein kleines bisschen exotisch, mit Olivenöl statt Milch noch Butter. Aber das merkt man nur, wenn man ein kräftiges Öl verwendet."
 
 +++
 
-Schneller und einfacher Schokoladenkuchen. Ohne Milch oder Butter, dafür mit leckerem Olivenöl und angenehm feuchter Textur.
+Super saftiger, fluffiger Schokoladenkuchen. Ein kleines bisschen exotisch, mit Olivenöl statt Milch noch Butter. Aber das merkt man nur, wenn man ein kräftiges Öl verwendet.
 
 **1 kleiner Kuchen**
 
@@ -29,7 +29,8 @@ Schneller und einfacher Schokoladenkuchen. Ohne Milch oder Butter, dafür mit le
 
 1. Vorbereitung:
    * Ofen auf 180°C vorheizen,
-   * kleine Springform (20 cm Durchmesser) mit Backpapier auslegen und einfetten.
+   * kleine Springform (20 cm Durchmesser) mit Backpapier auslegen und einfetten,
+   * Kaffee oder Tee kochen.
 2. In einer Rührschüssel
    * Braunen Zucker,
    * Vanillezucker,
@@ -42,7 +43,7 @@ Schneller und einfacher Schokoladenkuchen. Ohne Milch oder Butter, dafür mit le
    * Kaffee (oder Tee)
    * Eier
 
-   Hinzufügen und glatt rühren.
+   hinzufügen und glatt rühren.
 4. Mehl hinzufügen und nur so lange rühren bis es vermischt ist.
 5. Teig in die Form füllen. Ca. 30 Minuten backen, bis der Kuchen fest ist, aber man ihn noch mit dem Finger eindrücken kann. An einer Stäbchenprobe sollten noch ein paar Krümel haften.
 6. Eine Stunde in der Form abkühlen lassen. Dann auf ein Kuchengitter stürzen und das Backpapier abziehen. Auf die Servierplatte setzen. Nach belieben mit Puderzucker bestreuen und mit frischem Obst servieren.

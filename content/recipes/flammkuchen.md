@@ -1,11 +1,10 @@
 +++
 title = "Flammkuchen"
 date = 2019-06-28
+tags = [ "basis", "schnell" ]
 +++
 
 Basisrezept für Flammkuchen
-
-*flammkuchen, simpel, einfach, schnell, vegetarisch/fleischig*
 
 **Für 2 Personen (1 Blech)**
 
@@ -22,7 +21,7 @@ Basisrezept für Flammkuchen
 
 ## Vegetarisch:
 
-- *1* Süßkartoffel
+- *1* kleine Süßkartoffel
 
 ## Fleischig:
 
@@ -33,14 +32,14 @@ Basisrezept für Flammkuchen
 1. Teig anrühren
    * Mehl, Wasser und Salz zu einem glatten Teig verkneten
 2. Belag vorbereiten
-   * Zwiebeln in dünne Ringe schneiden
+   * Zwiebel in halbe Ringe schneiden
    * *vegetarisch:* Süßkartoffel mit dem Gurkenhobel in dünne Scheiben schneiden
 3. Belegen
-   * Teig dünn auf Rostgröße ausrollen
-   * Teig auf Backpapier legen
-   * den Becher Crème fraîche auf dem Teig verstreichen
-   * darauf den Belag verteilen
-   * mit Salz, Pfeffer und Kräutern der Provence nach Geschmack würzen
+   * Teig dünn auf Rostgröße ausrollen,
+   * Teig auf Backpapier legen.
+   * Die Crème fraîche auf dem Teig verstreichen,
+   * darauf den Belag verteilen,
+   * mit Salz (wenig, der Schinken ist schon salzig), Pfeffer und Kräutern der Provence nach Geschmack würzen.
 4. Backen
    * auf dem Rost
    * bei 250°C

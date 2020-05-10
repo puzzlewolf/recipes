@@ -1,6 +1,6 @@
 +++
 title = "Rote Beete Brot"
-tags = [ "brot" ]
+tags = [ "solawi", "brot" ]
 images = [ "/rote_beete_brot_angeschnitten.jpg" ]
 date = 2020-05-03
 +++

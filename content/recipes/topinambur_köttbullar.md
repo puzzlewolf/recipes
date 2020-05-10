@@ -1,6 +1,7 @@
 +++
 title = "Tobinambur-Bällchen „Köttbullar-Art“"
 images = [ "/topinambur_köttbullar.jpg" ]
+tags = [ "solawi" ]
 date = 2020-04-04
 +++
 
