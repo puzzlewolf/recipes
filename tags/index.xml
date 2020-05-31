@@ -1,15 +1,44 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>Tags on Nora&#39;s recipes</title>
+   <title>Tags on Noras Rezepte</title>
    <link>https://recipes.nora.pink/tags/</link>
-   <description>Recent content in Tags on Nora&#39;s recipes</description>
+   <description>Recent content in Tags on Noras Rezepte</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>de-de</language>
    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0200</lastBuildDate>
    
        <atom:link href="https://recipes.nora.pink/tags/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Lauchgemüse mit Limette</title>
+       <link>https://recipes.nora.pink/recipes/lauchgem%C3%BCse_limette/</link>
+       <pubDate>Sun, 31 May 2020 00:00:00 +0200</pubDate>
+       
+       <guid>https://recipes.nora.pink/recipes/lauchgem%C3%BCse_limette/</guid>
+       <description>&lt;p&gt;Lauch und Limette, abgefahren und lecker &lt;span class=&#34;far fa-smile-beam&#34;&gt;&lt;/span&gt;
+.
+Als Beilage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Für 2 Portionen&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;1&lt;/em&gt; große Stange Lauch&lt;/li&gt;
+&lt;li&gt;evtl. ein paar Frühlingszwiebeln&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;1&lt;/em&gt; Limette (Schale)&lt;/li&gt;
+&lt;li&gt;Estragon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;Lauch putzen und in halbe Ringe schneiden.&lt;/li&gt;
+&lt;li&gt;Kurz in etwas Öl anbraten.&lt;/li&gt;
+&lt;li&gt;Temperatur reduzieren und etwas weitergaren.&lt;/li&gt;
+&lt;li&gt;Die Sahne hinzufügen.&lt;/li&gt;
+&lt;li&gt;Zunächst etwas die Hälfte der Limettenschale abreiben und hinzufügen.&lt;/li&gt;
+&lt;li&gt;Mit Salz, Pfeffer, mehr Limettenschale und ca. ½ TL Estragon abschmecken.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+     </item>
    
      <item>
        <title>Mangold-Curry mit Süßkartoffel und Kichererbsen</title>
@@ -28,14 +57,14 @@
 &lt;li&gt;&lt;em&gt;1&lt;/em&gt; Zwiebel&lt;/li&gt;
 &lt;li&gt;Gewürzpaste aus:
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;1 1/2 EL&lt;/em&gt; Honig&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;1 ½ EL&lt;/em&gt; Honig&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;1 TL&lt;/em&gt; frischer Ingwer&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;1 TL&lt;/em&gt; Kreuzkümmel&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;1 TL&lt;/em&gt; Paprika edelsüß&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;ca. 1/2 TL&lt;/em&gt; Chili&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;ca. ½ TL&lt;/em&gt; Chili&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;em&gt;400 g&lt;/em&gt; Kochererbsen (Dose)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;400 g&lt;/em&gt; Kichererbsen (Dose)&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;400 ml&lt;/em&gt; Kokosmilch&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;70 g&lt;/em&gt; Cashews&lt;/li&gt;
 &lt;li&gt;Koriander nach Geschmack&lt;/li&gt;
@@ -54,7 +83,7 @@
 &lt;li&gt;Süßkartoffel
 &lt;ul&gt;
 &lt;li&gt;schälen&lt;/li&gt;
-&lt;li&gt;würfeln (1-2 cm)&lt;/li&gt;
+&lt;li&gt;würfeln (1&amp;ndash;2 cm)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Paprika
@@ -90,7 +119,8 @@
 &lt;ul&gt;
 &lt;li&gt;Kokosmilch&lt;/li&gt;
 &lt;li&gt;Kichererbsen&lt;/li&gt;
-&lt;li&gt;Bei geschlossenem Deckel garen (10-15 Minuten).&lt;/li&gt;
+&lt;li&gt;Mit Salz und Pfeffer würzen.&lt;/li&gt;
+&lt;li&gt;Bei geschlossenem Deckel weiterkochen (10&amp;ndash;15 Minuten).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Währenddessen:
