@@ -1,14 +1,14 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>My Recipes on Nora&#39;s recipes</title>
-   <link>https://recipes.nora.pink/recipes/</link>
-   <description>Recent content in My Recipes on Nora&#39;s recipes</description>
+   <title>hauptgericht on Nora&#39;s recipes</title>
+   <link>https://recipes.nora.pink/tags/hauptgericht/</link>
+   <description>Recent content in hauptgericht on Nora&#39;s recipes</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>de-de</language>
-   <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+   <lastBuildDate>Sun, 31 May 2020 00:00:00 +0200</lastBuildDate>
    
-       <atom:link href="https://recipes.nora.pink/recipes/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="https://recipes.nora.pink/tags/hauptgericht/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
