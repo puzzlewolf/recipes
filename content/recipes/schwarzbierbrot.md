@@ -1,6 +1,6 @@
 +++
 title = "Schwarzbierbrot"
-tags = [ "brot", "vegetarisch" ]
+tags = [ "brot" ]
 date = 2019-06-13
 +++
 
