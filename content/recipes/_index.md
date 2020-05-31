@@ -7,4 +7,4 @@ weight: 20
 ---
 
 Meine Rezeptesammlung.
-Alle Rezepte sind mindestens zweimal getestet und für sehr gut befunden :smile:.
+Alle Rezepte sind mindestens zweimal getestet und für sehr gut befunden {{< fa smile>}}.
