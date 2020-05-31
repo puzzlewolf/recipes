@@ -18,12 +18,12 @@ Mangold-Curry mit Süßkartoffel, Kichererbsen und einer selbstgemachten Currypa
 - *1* rote Paprika
 - *1* Zwiebel
 - Gewürzpaste aus:
-  - *1 1/2 EL* Honig
+  - *1 ½ EL* Honig
   - *1 TL* frischer Ingwer
   - *1 TL* Kreuzkümmel
   - *1 TL* Paprika edelsüß
-  - *ca. 1/2 TL* Chili
-- *400 g* Kochererbsen (Dose)
+  - *ca. ½ TL* Chili
+- *400 g* Kichererbsen (Dose)
 - *400 ml* Kokosmilch
 - *70 g* Cashews
 - Koriander nach Geschmack
@@ -37,7 +37,7 @@ Mangold-Curry mit Süßkartoffel, Kichererbsen und einer selbstgemachten Currypa
      * Blätter grob in Streifen schneiden.
    * Süßkartoffel
      * schälen
-     * würfeln (1-2 cm)
+     * würfeln (1--2 cm)
    * Paprika
      * waschen
      * in mittelgroße Stücke schneiden
@@ -56,7 +56,8 @@ Mangold-Curry mit Süßkartoffel, Kichererbsen und einer selbstgemachten Currypa
 4. Dazugeben:
    * Kokosmilch
    * Kichererbsen
-   * Bei geschlossenem Deckel garen (10-15 Minuten).
+   * Mit Salz und Pfeffer würzen.
+   * Bei geschlossenem Deckel weiterkochen (10--15 Minuten).
 5. Währenddessen:
    * Cashews in einer Pfanne ohne Öl rösten.
 6. Zuletzt:
