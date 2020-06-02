@@ -1,0 +1,15 @@
+</main>
+    <footer>
+        <h6>{{ .Site.Copyright | markdownify }} 
+          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0;width:unset" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> |
+            Rendered by <a href="https://gohugo.io" title="Hugo">Hugo</a> |
+            <a href="{{.Site.BaseURL}}index.xml">RSS Feed</a></h6>
+    </footer>
+</div>
+<script src="{{ "js/scripts.js" | relURL }}"></script>
+{{ if .Site.GoogleAnalytics }}
+  {{ template "_internal/google_analytics_async.html" . }}
+{{ end }}
+</body>
+
+</html>

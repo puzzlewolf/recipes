@@ -6,6 +6,9 @@ theme = "kiera"
 canonifyurls = true
 DefaultContentLanguage = "de-de"
 
+copyright = "Nora Widdecke 2020"
+Paginate = 20
+
 [author]
 name = "Nora Widdecke"
 github = "puzzlewolf/recipes"
