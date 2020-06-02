@@ -6,7 +6,7 @@ theme = "kiera"
 canonifyurls = true
 DefaultContentLanguage = "de-de"
 
-copyright = "Nora Widdecke 2020"
+copyright = "&copy; Nora Widdecke 2020"
 Paginate = 20
 
 [author]
