@@ -2,6 +2,7 @@ with import <nixpkgs> {};
 stdenv.mkDerivation {
   name = "recipes-hugo";
   buildInputs = [
+    gimp
     hugo
   ];
 
