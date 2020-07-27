@@ -1,7 +1,7 @@
 +++
-title = "Rote Beete Brot"
+title = "Rote Bete Brot"
 tags = [ "solawi", "brot" ]
-images = [ "/rote_beete_brot_angeschnitten.jpg" ]
+images = [ "/rote_bete_brot_angeschnitten.jpg" ]
 date = 2020-05-03
 +++
 
@@ -18,7 +18,7 @@ date = 2020-05-03
 - *100 g* Vollkornmehl
 - *2 TL* Backpulver
 - *1/4 TL* Natron
-- *200 g* rote Beete (roh, nicht eingelegt)
+- *200 g* rote Bete (roh, nicht eingelegt)
 - *2* große Eier
 - *80 ml* Sonnenblumenöl
 - *80 g* saure Sahne
@@ -30,7 +30,7 @@ date = 2020-05-03
 ---
 
 1. Vorbereiten:
-   * Rote Beete schälen und reiben
+   * Rote Bete schälen und reiben
    * Ziegenkäse in ca. 2 cm große Stücke schneiden
    * Eine Kastenform (mittelgroß, 20 oder 25 x 10 cm) mit Backpapier auslegen oder einfetten.
 1. Haferflockenmischung:
@@ -43,7 +43,7 @@ date = 2020-05-03
    * Parmesan fein reiben
    * In einer großen Schüssel Eier, Sonnenblumenöl, saure Sahne, Honig und Parmesan verquirlen
 4. Teig anrühren:
-   * Haferflockenmischung, Mehlmischung und geriebene Rote Beete in die Schüssel zum Flüssigen geben.
+   * Haferflockenmischung, Mehlmischung und geriebene Rote Bete in die Schüssel zum Flüssigen geben.
    * mit einem Teigschaber vermischen
    * Ziegenkäse vorsichtig unterheben
 5. Backen:
