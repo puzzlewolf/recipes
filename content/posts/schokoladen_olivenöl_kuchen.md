@@ -3,11 +3,11 @@ title = "Schokoladenkuchen mit Olivenöl"
 images = [ "/schokoladen_olivenöl_kuchen.jpg" ]
 tags = [ "kuchen", "backen", "olivenöl", "schokolade" ]
 date = 2019-06-13
-summary = " Super saftiger, fluffiger Schokoladenkuchen. Ein kleines bisschen exotisch, mit Olivenöl statt Milch noch Butter. Aber das merkt man nur, wenn man ein kräftiges Öl verwendet."
+summary = "Super saftiger, fluffiger Schokoladenkuchen. Ein kleines bisschen exotisch, mit Olivenöl statt Milch und Butter. Aber das merkt man nur, wenn man ein kräftiges Öl verwendet."
 
 +++
 
-Super saftiger, fluffiger Schokoladenkuchen. Ein kleines bisschen exotisch, mit Olivenöl statt Milch noch Butter. Aber das merkt man nur, wenn man ein kräftiges Öl verwendet.
+Super saftiger, fluffiger Schokoladenkuchen. Ein kleines bisschen exotisch, mit Olivenöl statt Milch und Butter. Aber das merkt man nur, wenn man ein kräftiges Öl verwendet.
 
 **1 kleiner Kuchen**
 
