@@ -37,12 +37,10 @@ Super saftiger, fluffiger Schokoladenkuchen. Ein kleines bisschen exotisch, mit 
    * Kakaopulver,
    * Salz,
    * Natron
-
    vermischen. Rühren, bis keine Kakao- oder Natron-Klümpchen mehr sichtbar sind (ca. 1 min).
 3. * Olivenöl
    * Kaffee (oder Tee)
    * Eier
-
    hinzufügen und glatt rühren.
 4. Mehl hinzufügen und nur so lange rühren bis es vermischt ist.
 5. Teig in die Form füllen. Ca. 30 Minuten backen, bis der Kuchen fest ist, aber man ihn noch mit dem Finger eindrücken kann. An einer Stäbchenprobe sollten noch ein paar Krümel haften.
