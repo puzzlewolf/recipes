@@ -107,6 +107,7 @@ time {
 #container main section#home ul li {
   margin: 0.5em 0;
   padding-bottom: 0.5em;
+  display: flow-root;
 }
 
 #container main section#home ul li h2 {
