@@ -40,11 +40,9 @@ date = 2020-05-01
    * Salz,
    * Backpulver,
    * Zimt
-
    vermischen. Rühren, bis keine größeren Klümpchen mehr sichtbar sind (ca. 1 min).
 4. * Olivenöl
    * Haferschlick
-
    hinzufügen und glatt rühren.
 5. Mehl hinzufügen und verrühren.
 6. Schokoladenstücke hinzufügen und mit der Hand einarbeiten.
