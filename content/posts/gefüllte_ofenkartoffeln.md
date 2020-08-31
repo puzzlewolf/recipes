@@ -1,6 +1,6 @@
 +++
 title = "Gefüllte Ofenkartoffeln"
-tags = [ "solawi", "hauptgericht", "beilage" ]
+tags = [ "solawi", "hauptgericht", "spinat", "mangold" ]
 images = [ "/gefüllte_ofenkartoffeln.jpg" ]
 date = 2020-05-10
 +++
@@ -53,3 +53,8 @@ Ofenkartoffel-Schiffchen, mit einer Kartoffelbrei-Spinat-Füllung.
 6. Die Kartoffelschalen
    * mit dem Kartoffelbrei füllen
    * für 15 Minuten im Ofen backen.
+
+### Notizen
+Dieses Rezept ist super flexibel, z.B.:
+* Erbsen statt Spinat
+* Schinkenwürfel dazu (etwas angebraten, mit dem Salz aufpassen)
