@@ -24,4 +24,4 @@ Als Beilage.
 3. Temperatur reduzieren und etwas weitergaren.
 4. Die Sahne hinzufügen.
 5. Zunächst etwas die Hälfte der Limettenschale abreiben und hinzufügen.
-6. Mit Salz, Pfeffer, mehr Limettenschale und ca. ½ TL Estragon abschmecken.
+6. Mit Salz, Pfeffer, mehr Limettenschale und ca. *½ TL* Estragon abschmecken.
