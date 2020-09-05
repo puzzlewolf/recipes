@@ -20,5 +20,5 @@ So wird es in Cocktailrezepten erwartet, physikalisch geht auch deutlich mehr Zu
 ---
 
 1. Wasser und Zucker in einen Topf geben.
-2. Unter Rühren auf hoher Hitze erwärmen, bis die Flüssigkeit klar wird.
+2. Unter Rühren auf hoher Hitze aufkochen, bis die Flüssigkeit klar wird.
 3. Vor dem Abfüllen abkühlen lassen.
