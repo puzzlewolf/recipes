@@ -1,5 +1,6 @@
 +++
 title = "Schneeflöckchen"
+images = [ "/schneeflöckchen.png" ]
 date = 2020-04-10
 tags = [ "backen", "kekse" ]
 +++
@@ -28,7 +29,7 @@ tags = [ "backen", "kekse" ]
    * Vanillezucker
    * Eiweiß
 3. Mehl/Stärke-Gemisch esslöffelweise zum Teig geben.
-4. Teig in Backpapier wickeln und in den Kühlschrank stellen (min. 60 Minuten).
+4. Teig in Backpapier wickeln und in einem flachen Paket in den Kühlschrank stellen (min. 60 Minuten).
 5. Kekse formen:
    * Aus dem Teig Röllchen formen (1,5 - 2 cm Durchmesser)
    * in 5 - 10 mm dicke Scheiben schneiden
@@ -37,7 +38,7 @@ tags = [ "backen", "kekse" ]
 6. Backen:
    * 175°C (Umluft 160°C)
    * mittlere Schiene
-   * 10 - 12 Minuten, sollen noch hell sein.
+   * 8 - 10 Minuten, sollen noch hell sein.
 
 **Variante**
 * Für dunkle Kekse: *40 g* Kakao und etwas Bittermandelaroma hinzufügen.
