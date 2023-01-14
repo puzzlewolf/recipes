@@ -12,28 +12,29 @@ Möhrenquiche mit Erdnüssen
 ---
 
 ### Teig
-- *120 g* Mehl
+- *120 g* Weißmehl
 - *80 g* Vollkornmehl
 - *80 g* kalte Butter
 - *1* Ei
 - *1/2 TL* Salz
+- *2 - 3 EL* Wasser
 
 ### Füllung
 - *500 g* Möhren
 - *1 Stück (ca. 2cm)* Ingwer
 - *3 Zehen* Knoblauch
 - *100 g* Frühlingszwiebeln
-- *1 Bund* Petersilie (Dill geht auch)
+- *1 Bund* Petersilie (und/oder Koriander, Dill)
 - *1* Limette (Schale & Saft)
 - *60 g* Erdnüsse geröstet & gesalzen
-- Salz & Pfeffer
 
 ### Guss
-- *2* Eier
 - *200 g* Sahne
+- *2* Eier
 - *3 EL* Sojasauce
 - *1 Msp* Cayennpfeffer
-- *1/4 TL* Kurkuma
+- *1/2 TL* Kurkuma
+- Salz & Pfeffer
 
 ### Backform
 Quicheform mit hohem Rand oder Springform Ø 26 cm
@@ -41,22 +42,22 @@ Quicheform mit hohem Rand oder Springform Ø 26 cm
 ---
 
 1. Mürbeteig vorbereiten
-   - Mehle, kalte Butter, *1* Ei, *1/2 TL* Salz und *2 - 3 EL* Wasser verkneten.
+   - *120 g* Weißmehl, *80 g* Vollkornmehl, *80 g* kalte Butter, *1* Ei, *1/2 TL* Salz und *2 - 3 EL* Wasser verkneten.
    - Den Teig in Frischhaltefolie wickeln und ca. 30 Minuten im Kühlschrank ruhen lassen.
 2. Für die Füllung vorbereiten:
-   - Möhren schälen und in eine große Schüssel reiben (eine Küchenmaschine ist dafür großartig),
-   - Petersilie hacken
-   - Frühlingszwiebeln in Ringe schneiden
+   - *500 g* Möhren schälen und in eine große Schüssel reiben (eine Küchenmaschine ist dafür großartig),
+   - Kräuter hacken
+   - *100 g* Frühlingszwiebeln in Ringe schneiden
 3. Füllung in die große Schüssel zu den Möhren geben:
-    * Petersilie,
+    * Kräuter,
     * Frühlingszwiebelringe,
     * Erdnüsse,
     * Knoblauch hineinpressen,
     * *1 TL* Limettenschale hineinreiben,
     * *ca. 3 EL* Limettensaft auspressen und hinzugeben.
-    * Alles mit den Händen vermischen.
+    * Alles grob vermischen.
 4. Guss anrühren:
-   - Sahne, *2* Eier, Sojasauce, Cayennepfeffer und Kurkuma verrühren,
+   - Sahne, *2* Eier, *3 EL* Sojasauce, *1 Msp* Cayennepfeffer und *1/2 TL* Kurkuma verrühren,
    - mit Salz und Pfeffer abschmecken.
 5. Zusammensetzen:
    - Die Arbeitsplatte mit Mehl bestreuen.
