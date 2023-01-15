@@ -22,6 +22,7 @@ draft = true
 ---
 
 1. Kartoffeln
-   * waschen, nicht schälen.
-   * Lange Kartoffeln halbieren.
+   * waschen, hässliche Stellen wegschneiden.
    * Dann Kartoffeln längs halbieren und je nach Größe vierteln, sechsteln oder achteln, sodass gleichmäßige Ecken herauskommen.
+
+180C, 15 + 10 minuten
