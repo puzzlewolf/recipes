@@ -52,6 +52,7 @@ Quicheform mit hohem Rand oder Springform Ø 26 cm
     * Kräuter,
     * Frühlingszwiebelringe,
     * Erdnüsse,
+    * Ingwer,
     * Knoblauch hineinpressen,
     * *1 TL* Limettenschale hineinreiben,
     * *ca. 3 EL* Limettensaft auspressen und hinzugeben.
