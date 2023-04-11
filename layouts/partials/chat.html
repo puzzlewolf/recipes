@@ -1,0 +1,14 @@
+<script type="text/javascript" src="{{ "../js/cactus.js" | relURL }}"></script>
+<link rel="stylesheet" href="{{ "../../css/cactus.css" }}" type="text/css">
+<div id="comment-section"></div>
+<script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+  serverName: "cactus.chat",
+  siteName: "recipes.nora.pink",
+  commentSectionId: "{{ .Title | anchorize }}",
+  loginEnabled: false,
+  guestPostingEnabled: false
+})
+</script>
