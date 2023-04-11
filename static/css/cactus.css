@@ -323,8 +323,8 @@
 .cactus-button{
     display:flex;
     align-items:center;
-    padding-block:.6em;
-    padding-inline:1em;
+    padding-block:0.1em;
+    padding-inline:0.5em;
     background-color:var(--cactus-button-color);
     font-weight:700;
     border-radius:var(--cactus-border-radius);
