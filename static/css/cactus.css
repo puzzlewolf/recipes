@@ -40,7 +40,7 @@
 }
 .cactus-container{
     display:flex;
-    flex-direction:column;
+    flex-direction: column-reverse;
     gap:1em;
     color:var(--cactus-text-color);
     background-color:var(--cactus-background-color)
@@ -329,7 +329,7 @@
     font-weight:700;
     border-radius:var(--cactus-border-radius);
     color:var(--cactus-button-text-color);
-    font-size:inherit;
+    font-size:smaller;
     border:none
 }
 .cactus-button:hover:not([disabled]){
@@ -373,4 +373,3 @@
         transform:scaleY(1)
     }
 }
-
