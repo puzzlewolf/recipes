@@ -5,9 +5,11 @@ images = [ "/lauch_mit_erdnusssauce.jpg" ]
 date = 2023-04-14
 +++
 
-Lauch und Limette, abgefahren und lecker {{< fa smile-beam>}}.
+Lauch und Tofu mit Erdnusssauce, zufällig vegan.
 
 **Für 4 Portionen, Beilage: Reis**
+
+**Zeit: ca. 30 Minuten**
 
 ---
 
