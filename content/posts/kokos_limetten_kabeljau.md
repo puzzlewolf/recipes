@@ -1,7 +1,7 @@
 +++
 title = "Kokos-Limetten-Kabeljau"
 tags = ["scharf", "fisch"]
-images = [ "/kokos_limetten_kabeljau.jpg" ]
+images = [ "kokos_limetten_kabeljau.jpg" ]
 date = 2019-06-13
 +++
 

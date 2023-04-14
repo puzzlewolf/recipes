@@ -1,7 +1,7 @@
 +++
 title = "Möhrenquiche mit Erdnüssen"
 tags = [ "möhren", "solawi", "hauptgericht" ]
-images = [ "/möhrenquiche.png" ]
+images = [ "möhrenquiche.png" ]
 date = 2020-09-04
 +++
 

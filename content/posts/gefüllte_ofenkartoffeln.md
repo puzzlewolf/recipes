@@ -1,7 +1,7 @@
 +++
 title = "Gefüllte Ofenkartoffeln"
 tags = [ "solawi", "hauptgericht", "spinat", "mangold" ]
-images = [ "/gefüllte_ofenkartoffeln.jpg" ]
+images = [ "gefüllte_ofenkartoffeln.jpg" ]
 date = 2020-05-10
 +++
 

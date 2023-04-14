@@ -1,6 +1,6 @@
 +++
 title = "veganer Schokoladenkuchen"
-images = [ "/veganer_schokokuchen.jpg" ]
+images = [ "veganer_schokokuchen.jpg" ]
 tags = [ "kuchen", "backen", "schokolade", "vegan" ]
 date = 2021-12-24
 summary = "Sehr schokoladiger, veganer Schokoladenkuchen"

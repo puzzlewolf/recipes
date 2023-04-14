@@ -1,7 +1,7 @@
 +++
 title = "Zuckersirup für Cocktails"
 tags = [ "cocktail", "basis" ]
-images = [ "/zuckersirup.jpg" ]
+images = [ "zuckersirup.jpg" ]
 date = 2020-06-28
 summary = "Basis-Rezept für Zuckersirup („simple syrup“)"
 draft = true

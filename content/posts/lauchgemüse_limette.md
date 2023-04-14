@@ -1,7 +1,7 @@
 +++
 title = "Lauchgemüse mit Limette"
 tags = [ "solawi", "beilage" ]
-images = [ "/lauchgemüse_limette.jpg" ]
+images = [ "lauchgemüse_limette.jpg" ]
 date = 2020-05-31
 +++
 
