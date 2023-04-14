@@ -1,7 +1,7 @@
 +++
 title = "Rote Bete Brot"
 tags = [ "solawi", "brot" ]
-images = [ "/rote_bete_brot_angeschnitten.jpg" ]
+images = [ "rote_bete_brot_angeschnitten.jpg" ]
 date = 2020-05-03
 +++
 

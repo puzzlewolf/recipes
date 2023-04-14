@@ -1,6 +1,6 @@
 +++
 title = "Rhabarber-Apfel-Kuchen"
-images = [ "/rhabarberkuchen.png" ]
+images = [ "rhabarberkuchen.png" ]
 tags = [ "backen", "rhabarber", "solawi" ]
 date = 2020-06-14
 +++

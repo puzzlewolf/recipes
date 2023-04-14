@@ -1,6 +1,6 @@
 +++
 title = "Chocolate-Chip-Cookies mit Olivenöl"
-images = [ "/chocolate_chip_cookies.jpg" ]
+images = [ "chocolate_chip_cookies.jpg" ]
 tags = [ "cookies", "kekse", "backen", "olivenöl", "schokolade" ]
 date = 2020-05-01
 +++

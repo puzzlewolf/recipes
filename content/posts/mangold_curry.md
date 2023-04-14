@@ -1,7 +1,7 @@
 +++
 title = "Mangold-Curry mit Süßkartoffel und Kichererbsen"
 tags = [ "solawi", "hauptgericht" ]
-images = [ "/mangold_curry.jpg" ]
+images = [ "mangold_curry.jpg" ]
 date = 2020-05-31
 +++
 

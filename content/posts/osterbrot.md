@@ -1,6 +1,6 @@
 +++
 title = "Osterbrot"
-images = [ "/osterbrot_cropped.jpg" ]
+images = [ "osterbrot_cropped.jpg" ]
 tags = [ "backen", "brot" ]
 date = 2020-04-10
 +++

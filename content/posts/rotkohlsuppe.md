@@ -1,7 +1,7 @@
 +++
 title = "Rotkohlsuppe"
 tags = [ "rotkohl", "solawi", "hauptgericht", "suppe" ]
-images = [ "/rotkohlsuppe.png" ]
+images = [ "rotkohlsuppe.jpg" ]
 date = 2021-11-03
 +++
 

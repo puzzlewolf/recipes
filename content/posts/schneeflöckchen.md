@@ -1,6 +1,6 @@
 +++
 title = "Schneeflöckchen"
-images = [ "/schneeflöckchen.png" ]
+images = [ "schneeflöckchen.png" ]
 date = 2020-04-10
 tags = [ "backen", "kekse" ]
 +++
