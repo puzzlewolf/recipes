@@ -1,7 +1,7 @@
 +++
 title = "Chocolate-Chip-Cookies mit Olivenöl"
 images = [ "chocolate_chip_cookies.jpg" ]
-tags = [ "cookies", "kekse", "backen", "olivenöl", "schokolade" ]
+tags = [ "cookies", "kekse", "backen", "olivenöl", "schokolade", "vegan" ]
 date = 2020-05-01
 +++
 
@@ -9,8 +9,11 @@ date = 2020-05-01
 
 ---
 
+Für den Haferschlick:
 - *40 g* Haferflocken
 - *80 ml* Wasser
+
+Für die Kekse:
 - *160 g* brauner Zucker
 - *15 g* (eine Tüte) Vanillezucker
 - *3/4 TL* Natron
