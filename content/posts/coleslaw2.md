@@ -1,7 +1,7 @@
 +++
 title = "Bangin' Coleslaw II"
 tags = [ "grillen" ]
-images = [ "" ]
+images = [ "Coleslaw_II.jpg" ]
 date = 2025-06-29
 +++
 
@@ -18,12 +18,12 @@ date = 2025-06-29
 
 ---
 
-1. Schnippeln
-   * Kohl so fein wie möglich in Streifen vom Kopf schneiden.
-   * Mohrrüben grob reiben.
+Am Vortag zubereiten
 
-2. Sauce anrühren
-   * Dijon-Senf, Apfelessig und Olivenöl verrühren, mit Salz und Pfeffer würzen
+1. Kohl so fein wie möglich in Streifen vom Kopf schneiden. Mohrrüben grob reiben.
 
-3. Vermischen
-  * Alles in einer großen Schüssel vermischen
+2. Dijon-Senf, Apfelessig und Olivenöl verrühren, mit Salz und Pfeffer würzen.
+
+3. Alles in einer großen Schüssel vermischen.
+
+4. Über Nacht im Kühlschrank ziehen lassen.
