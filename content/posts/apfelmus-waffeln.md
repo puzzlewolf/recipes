@@ -22,7 +22,3 @@ tags = [ "backen", "waffeln", "zuckerarm" ]
 0. Mehl dazugeben und vermengen. Nicht zu viel Rühren, sonst wird der Teig zäh.
 0. 10 Minuten ruhen lassen, währenddessen das Waffeleisen aufheizen lassen.
 0. 3-4 Minuten pro Waffel backen lassen.
-
-**Variante**
-* Für dunkle Kekse: *40 g* Kakao und etwas Bittermandelaroma hinzufügen.
-
